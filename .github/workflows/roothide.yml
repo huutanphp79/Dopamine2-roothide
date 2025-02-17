@@ -1,4 +1,4 @@
-"*** build tipa file ***"
+name: "*** build tipa file ***"
 
 on:
   #schedule:
